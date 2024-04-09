@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Adote um gato - Pratica de Ancoras e Imagens</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+  
+<body bgcolor="eead2d">
+  
+</body>
+  
+<section></section>
+  <h1>
+  Adote um gato 😺
+</h1>
+<nav class="menu">
+  <a href="index.html">Início</a>
+  <a href=#catalogo">Adote</a>
+  <a href=#contato">Contato</a>
+</nav>
+  <hr></hr>
+  <section id="catalogo" class="catalogo">
+  <p>
+    lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada, diam non scelerisque bibendum, nunc nisl sagittis est, vitae mattis nisl turpis vitae eros. Nulla facilisi. Nulla facilisi. Nulla facilisi. Nulla facilisi. N
+  </p>
+   <hr></hr>
+  <h1>
+    Gold Pride
+  </h1>
+    <figure>
+  <img src="https://resources.bestfriends.org/sites/default/files/styles/large/public/2022-11/17_Desmond_LF_794A6656_video.jpg?itok=q4Zyy7HV" alt="gato_goldenpride">
+</body>
+    <figcaption>
+      Ele consegue exterminar insetos e miar fofo
+    </figcaption>
+      </figure>
+  <h2>
+    Motivos para adotar:
+  </h2>
+<ol>
+<li>Laranja</li>
+<li>Miados fofos</li>
+<li>Laranja</li>
+<li>Pelos macios</li>
+<li>Laranja</li>
+</ol>
+  <hr></hr>
+<h1>
+  Dante
+</h1>
+  
+<img src="https://blog.cobasi.com.br/wp-content/webpc-passthru.php?src=https://blog.cobasi.com.br/wp-content/uploads/2023/01/gato-preto-branco-frajola.png&nocache=1" alt="gato_dante">
+  
+  <h2>
+    Motivos para adotar:
+  </h2>
+  <ol>
+  <li>Destemido</li>
+  <li>Espanta mal olhado</li>
+  <li>Corajoso</li>
+  <li>Pelos macios</li>
+  <li>Fofo</li>
+  </ol>
+  <hr></hr>
+  <h1>
+    Sasuke
+  </h1>
+  <img src="https://t1.ea.ltmcdn.com/pt/razas/0/1/2/havana_210_0_orig.jpg" alt="gato_sasuke">
+  <h2>
+    Motivos para adotar:
+  </h2>
+  <ol>
+  <li>Olhos vermelhos</li>
+  <li>Pelo de veludo</li>
+  <li>Manso</li>
+  <li>Pelos macios</li>
+  <li>Fofo</li>
+  </ol>
+  <hr></hr>
+  <h1>
+    Contato
+  </h1>
+<p>
+  lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada, diam non scelerisque bib
+</p>
+  <form>
+    <label for="nome">Nome:</label>
+    <br>
+    <input type="text" id="nome" name="nome" required>
+    <br><br>
+    <label for="email">Email:</label>
+    <br>
+    <input type="text" id="Email" name="Email" required>
+    <br><br>
+    <label for="mensagem">Mensagem:</label>
+    <br>
+    <textarea name="Mensagem" rowls="15" cols="50">
+      
+    </textarea>
+    
+    <br>
+
+    <input type="submit" value="Enviar">
+  </form>
+  <a href="https://www.instagram.com/gatos_adotaveis/" class="Inicio">Inicio</a>
+</html>
