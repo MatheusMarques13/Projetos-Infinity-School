@@ -86,6 +86,47 @@
 <p>
   lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada, diam non scelerisque bib
 </p>
+    <fieldset>
+      <legend>Escolha o gato que voce deseja:</legend>
+
+      <div>
+        <input type="checkbox" id="Gold Pride" name="Gold Pride" checked />
+        <label for="Gold Pride">Gold Pride</label>
+      </div>
+
+      <div>
+        <input type="checkbox" id="Dante" name="Dante" />
+        <label for="Dante">Dante</label>
+      </div>
+
+      <div>
+        <input type="checkbox" id="Sasuke" name="Sasuke" />
+        <label for="Sasuke">Sasuke</label>
+      </div>
+
+      <div>
+        <input type="checkbox" id="Todos" name="Todos" />
+        <label for="Todos">Todos</label>
+      </div>
+
+      <div>
+        <input type="checkbox" id="Outros" name="Outros" />
+        <label for="Outros">Outros</label>
+      </div>
+    </fieldset>
+    <fieldset>
+    <legend>Selecione uma unidade:</legend>
+
+    <div>
+      <input type="radio" id="unit1" name="unidade1" value="unit1" checked />
+      <label for="unidade1">Unidade 1</label>
+    </div>
+
+    <div>
+      <input type="radio" id="unit2" name="unidade2" value="unit2" />
+      <label for="unit2">Unidade 2</label>
+    </div>
+    </fieldset>
   <form>
     <label for="nome">Nome:</label>
     <br>
@@ -104,6 +145,7 @@
     <br>
 
     <input type="submit" value="Enviar">
+    <input type="reset" value="Reset" />
   </form>
   <a href="https://www.instagram.com/gatos_adotaveis/" class="Inicio">Inicio</a>
 </html>
